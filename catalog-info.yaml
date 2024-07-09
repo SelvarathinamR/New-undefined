@@ -1,0 +1,61 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: New-undefined
+  annotations:
+    confluence/page: 'New '
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Tue Jul 09 2024 11:12:13 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: guest
+  lifecycle: experimental
+  version: ''
+  projectInfo:
+    projectName: 'New '
+    moduleName: ''
+    informationAuthor: ''
+    modality:
+      - MR
+    bodyParts: Brain
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: ''
+    sourceCodeLanguage: ''
+    developmentStatus: RESEARCH / POC
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: Clinical Validation
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: IMAGE ANALYSIS
+    TRL: TRL 5
+    projectStatus: LEGACY
